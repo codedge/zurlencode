@@ -32,3 +32,7 @@ $ echo -e "foo%20bar\nbaz%20quux" | zurlencode --type d
 foo bar
 baz quux
 ```
+
+## Contributing
+
+Contributing takes place on Codeberg - https://codeberg.org/codedge/zurlencode.
